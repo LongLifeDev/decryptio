@@ -1,0 +1,8 @@
+.jumbotron {
+	background: black;
+    background: rgb(0, 0, 0); /* Fallback for older browsers without RGBA-support */
+    background: rgba(0, 0, 0, 0.01);
+}
+.item {
+	margin-right: 17%;
+}
